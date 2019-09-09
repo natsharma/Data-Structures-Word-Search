@@ -27,13 +27,13 @@ Second file is named words.txt and contains a set of words for comparison agains
 * Simply run the Main class as long as the .txt files are in the same directory. 
 
 ## Expected Results:
-Focus book  JaneEyre   Total Words:  2933  Proper Nouns:  43  Comparison book: War_peace  Total Words: 2633   Proper Nouns: 65        
-Words in both:  3332     Words in JaneEyre only:  323    Words in War_peace only: 832
-WordList JaneEyre only:   alpha, baker, charlie
-WordList war_peace only:   alpha, baker, charlie
-(Repeat above 4 lines for Gone_with_wind.txt   David_copperfield.txt)
-Words in focus book: JaneEyre  also in vocabulary list:    apple, banana, cherry,…..
-Words in vocabulary list not in focus book:       aaa, bbb, ccc
+Focus book  JaneEyre   Total Words:  2933  Proper Nouns:  43  Comparison book: War_peace  Total Words: 2633   Proper Nouns: 65 <br>     
+Words in both:  3332     Words in JaneEyre only:  323    Words in War_peace only: 832 <br>
+WordList JaneEyre only:   alpha, baker, charlie <br>
+WordList war_peace only:   alpha, baker, charlie <br>
+(Repeat above 4 lines for Gone_with_wind.txt   David_copperfield.txt) <br>
+Words in focus book: JaneEyre  also in vocabulary list:    apple, banana, cherry,….. <br>
+Words in vocabulary list not in focus book:       aaa, bbb, ccc <br>
 
 
 
