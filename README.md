@@ -10,12 +10,12 @@
 
 There are two input files. 
 
-First file is named books.txt and contains n records. First record will be the focus book of analysis. Remaining records will be all the books for comparison to the focus book.
-For example, if books.txt contains:
-JaneEyre.txt
-War_peace.txt
-Gone_with_wind.txt
-David_copperfield.txt
+First file is named books.txt and contains n records. First record will be the focus book of analysis. Remaining records will be all the books for comparison to the focus book. <br>
+For example, if books.txt contains: <br>
+JaneEyre.txt <br>
+War_peace.txt <br>
+Gone_with_wind.txt <br>
+David_copperfield.txt <br>
 
 Then the solution will compare Jane Eyre against all the following books on the list. 
 
